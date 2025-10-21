@@ -78,4 +78,7 @@ No database connection is required to explore the analysis.
 - Search anomalies.pdf        # PDF version of the anomaly analysis
 - README.md                   # Project description
 
-*Author:* **Aleksandr Antonov**
+### Author
+**Aleksandr Antonov**  
+📊 Product & Data Analyst  
+🎓 [Karpov.Courses — Data Analyst Simulator](https://karpov.courses)
